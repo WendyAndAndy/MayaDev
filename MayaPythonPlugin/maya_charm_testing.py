@@ -1,3 +1,6 @@
+# coding:utf-8
+# 测试 PyCharm 的 MayaCharm 插件是否安装好 By Jason (184327932@qq.com), 公众号: WendyAndAndy
+
 from maya import cmds
 from random import uniform
 
