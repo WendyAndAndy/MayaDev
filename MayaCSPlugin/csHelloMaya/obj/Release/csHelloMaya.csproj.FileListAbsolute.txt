@@ -1,0 +1,6 @@
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\csHelloMaya\bin\Release\csHelloMaya.dll.config
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\csHelloMaya\bin\Release\csHelloMaya.dll
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\csHelloMaya\bin\Release\csHelloMaya.pdb
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\csHelloMaya\obj\Release\csHelloMaya.csproj.CoreCompileInputs.cache
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\csHelloMaya\obj\Release\csHelloMaya.dll
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\csHelloMaya\obj\Release\csHelloMaya.pdb

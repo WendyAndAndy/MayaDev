@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bea2202a-c3ee-484a-ba68-582d38a42252" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyHelloMaya.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maya_charm_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/maya_charm_testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userSetup.py" beforeDir="false" afterPath="$PROJECT_DIR$/userSetup.py" afterDir="false" />
-    </list>
+    <list default="true" id="bea2202a-c3ee-484a-ba68-582d38a42252" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +12,12 @@
     <session id="1467502390">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/userSetup.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -63,9 +59,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="1" selection-end-column="79" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -74,13 +67,12 @@
         <entry file="file://$PROJECT_DIR$/pyHelloMaya.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#84#94#0" expanded="true" />
                 <marker date="1533825668149" expanded="true" signature="153:158" ph="..." />
                 <marker date="1533825668149" expanded="true" signature="295:300" ph="..." />
                 <marker date="1533825668149" expanded="true" signature="413:462" ph="..." />
-                <marker date="1533825668149" expanded="true" signature="550:1001" ph="..." />
               </folding>
             </state>
           </provider>
@@ -209,7 +201,7 @@
     <entry file="file://$PROJECT_DIR$/userSetup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -226,13 +218,12 @@
     <entry file="file://$PROJECT_DIR$/pyHelloMaya.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#84#94#0" expanded="true" />
             <marker date="1533825668149" expanded="true" signature="153:158" ph="..." />
             <marker date="1533825668149" expanded="true" signature="295:300" ph="..." />
             <marker date="1533825668149" expanded="true" signature="413:462" ph="..." />
-            <marker date="1533825668149" expanded="true" signature="550:1001" ph="..." />
           </folding>
         </state>
       </provider>
