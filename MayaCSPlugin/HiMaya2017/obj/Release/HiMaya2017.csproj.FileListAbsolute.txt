@@ -1,0 +1,5 @@
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\HiMaya2017\bin\Release\HiMaya2017.dll
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\HiMaya2017\bin\Release\HiMaya2017.pdb
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\HiMaya2017\obj\Release\HiMaya2017.csproj.CoreCompileInputs.cache
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\HiMaya2017\obj\Release\HiMaya2017.dll
+D:\git\WendyAndAndy\MayaDev\MayaCSPlugin\HiMaya2017\obj\Release\HiMaya2017.pdb
