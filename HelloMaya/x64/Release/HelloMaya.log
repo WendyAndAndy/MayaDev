@@ -1,0 +1,7 @@
+﻿  first_class.cpp
+  plugin_main.cpp
+    正在创建库 D:\git\WendyAndAndy\MayaDev\x64\Release\HelloMaya.lib 和对象 D:\git\WendyAndAndy\MayaDev\x64\Release\HelloMaya.exp
+  正在生成代码
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HelloMaya.vcxproj -> D:\git\WendyAndAndy\MayaDev\x64\Release\HelloMaya.mll
