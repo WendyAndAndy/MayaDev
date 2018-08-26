@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3781149d-992d-4c14-93a0-fe98043ecbec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myPlugin/plug-ins/pyMyPlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myPlugin/scripts/MyWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui2py.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vs/MayaDev/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/MayaDev/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vs/MayaDev/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/MayaDev/v15/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloMaya/HelloMaya.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloMaya/HelloMaya.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MayaPythonPlugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayaPythonPlugin/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3781149d-992d-4c14-93a0-fe98043ecbec" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +12,11 @@
     <session id="-1663135013">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -138,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,6 +164,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
